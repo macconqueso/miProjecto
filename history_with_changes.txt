@@ -1,0 +1,43 @@
+commit e76b004ed5360ca42144dfd2ea50e1959b443ba0
+Author: macconqueso <connormcgoochan@outlook.com>
+Date:   Thu Oct 2 17:59:53 2025 +0100
+
+    Second commit
+
+diff --git a/notas.txt b/notas.txt
+index 7758cfb..59a9d6a 100644
+--- a/notas.txt
++++ b/notas.txt
+@@ -1 +1,3 @@
+ linea de texto inicial
++New Section:
++Good golly, aren't we a splendid team?
+
+commit 69a51be1f8ae7492a701a30b44bce34f533393d6
+Author: macconqueso <connormcgoochan@outlook.com>
+Date:   Thu Oct 2 17:58:10 2025 +0100
+
+    First commit on ideas branch
+
+diff --git a/notas.txt b/notas.txt
+index 7758cfb..7233545 100644
+--- a/notas.txt
++++ b/notas.txt
+@@ -1 +1,2 @@
+-linea de texto inicial
++App for Ancient Roman recipes
++App for studying Python programming
+
+commit 4a670738834b5b377e78ec88523daca957610544
+Author: macconqueso <connormcgoochan@outlook.com>
+Date:   Thu Oct 2 17:52:58 2025 +0100
+
+    Primer commit
+
+diff --git a/notas.txt b/notas.txt
+new file mode 100644
+index 0000000..7758cfb
+--- /dev/null
++++ b/notas.txt
+@@ -0,0 +1 @@
++linea de texto inicial
