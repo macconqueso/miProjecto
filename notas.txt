@@ -1,1 +1,2 @@
-linea de texto inicial
+App for Ancient Roman recipes
+App for studying Python programming
